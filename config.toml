@@ -1,4 +1,4 @@
-baseURL = 'https://wiki.420blazeit.today/'
+baseURL = 'https://420blazeit.today/'
 languageCode = 'en-us'
 title = 'Angerblog'
 theme = "hugo-book"
