@@ -1,11 +1,6 @@
 ---
 title: Körnerbrot
-
-menu:
-  docs:
-    title: "brot"
-    parent: "bread"
-    weight: 130
+draft: true
 ---
 
 # Zutaten

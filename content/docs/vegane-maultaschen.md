@@ -1,5 +1,6 @@
 ---
 title: Vegane Spinat-Maultaschen mit Gemüsefüllung
+draft: true
 ---
 WORK IN PROGRESS
 Reicht für ca 2kg Maultaschen
