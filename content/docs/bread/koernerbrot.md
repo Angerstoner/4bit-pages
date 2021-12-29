@@ -1,8 +1,5 @@
 ---
 title: Körnerbrot
-[menu]
-[menu.main]
-parent = "bread"
 ---
 
 # Zutaten
