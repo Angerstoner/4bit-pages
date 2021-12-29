@@ -3,4 +3,13 @@ languageCode = 'en-us'
 title = 'Angerblog'
 theme = "hugo-book"
 
-[menu]
+[[menu.main]]
+name = "Docs folder"
+identifier = "docs"
+url = "/content/docs/"
+
+[[menu.main]]
+name = "Brot & Co"
+parent = "docs"
+identifier = "breads"
+url = "/content/docs/bread/"
