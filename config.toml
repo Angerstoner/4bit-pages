@@ -2,3 +2,5 @@ baseURL = 'https://420blazeit.today/'
 languageCode = 'en-us'
 title = 'Angerblog'
 theme = "hugo-book"
+
+[menu]
