@@ -1,19 +1,20 @@
 ---
-title: "Lebkuchen Nussecken"
+title: "Lebkuchen-Nussecken"
 date: 2022-10-16T15:29:23+02:00
 ---
-WORK IN PROGRESS
+WORK IN PROGRESS  
 Ein Versuch weihnachtliche Nussecken zu backen. 
 
 # Zutaten
 ## Teig
-- 500 g Mehl
+- 330 g Mehl
 - 1 Pck Backpulver
-- 200 g Rohrzucker
-- 15 g Lebkuchengewürz
-- 40 g Backkakao (ungesüßt)
-- 40 ml pflanzliches Öl
-- 250 ml pflanzliche Milch (Hafer)
+- 133 g Rohrzucker
+- 10 g Lebkuchengewürz
+- 25 g Backkakao (ungesüßt)
+- 25 ml pflanzliches Öl
+- 170 ml pflanzliche Milch (Hafer)
+- 50 g Orangeat/Zitronat
 
 ## Nussmasse
 - 100g Margarine
